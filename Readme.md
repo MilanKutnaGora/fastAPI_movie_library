@@ -23,7 +23,7 @@
 
 1. Клонируйте репозиторий:
 
-   `git clone <URL_вашего_репозитория>`
+   `git clone https://github.com/MilanKutnaGora/fastAPI_movie_library`
 
    `cd movie_library`
    
