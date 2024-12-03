@@ -23,12 +23,16 @@
 
 1. Клонируйте репозиторий:
 
-   git clone <URL_вашего_репозитория>
-   cd movie_library
+   `git clone <URL_вашего_репозитория>`
+
+   `cd movie_library`
    
 2. Установите зависимости:
+
 `pip install -r requirements.txt`
 
 Запуск
+
 Запустите сервер с помощью Uvicorn:
+
 `uvicorn app.main:app --reload`
